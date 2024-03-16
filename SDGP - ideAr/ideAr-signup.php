@@ -236,7 +236,7 @@
        <!--Header-->
        <div class="nav-outer">
        <div class="logo-outer">
-            <img class="main-slider-logo" src="#"
+            <img class="main-slider-logo" src="Logo.png"
                  alt="logo img">
         </div>
         <div class="nav-bar-context">
