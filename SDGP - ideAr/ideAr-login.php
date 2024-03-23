@@ -208,7 +208,7 @@ require_once('connect.php'); ?>
             text-decoration: underline;
         }
         
-    
+        /*Footer*/
         footer {
             background-color: #F778A1;
             color: #576574;
