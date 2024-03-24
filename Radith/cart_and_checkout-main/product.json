@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Simple Modern Sofa Set",
+        "price": 520,
+        "image": "images/a.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Shaker Dinning Table",
+        "price": 220,
+        "image": "images/b.webp"
+    },
+    {
+        "id": 3,
+        "name": "Modern Fridge",
+        "price": 250,
+        "image": "images/c.jpeg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Modern Washing Machine",
+        "price": 420,
+        "image": "images/d.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Smart TV",
+        "price": 120,
+        "image": "images/e.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Wooden Wardrobe",
+        "price": 120,
+        "image": "images/f.jpeg"
+    }
+]
