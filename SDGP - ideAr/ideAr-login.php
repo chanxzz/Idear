@@ -18,14 +18,8 @@ require_once('connect.php'); ?>
 
                 $_SESSION['username'] = $record['username'];
                 $_SESSION['email'] = $record['email'];
-
-                if($record['role'] == 'admin'){
-                    header("Location: ../admin/admin.php");
-                    exit;
-                }else{
-                    header("Location: ../home.php");
-                    exit;
-                }
+                header("Location: home.php");
+                exit;
             }
         }
 
